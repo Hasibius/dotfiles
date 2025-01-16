@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hasib.selimovic@gmail.com
+	name = Hasib Selimovic
